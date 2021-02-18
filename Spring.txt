@@ -1,0 +1,4 @@
+date :17-nov-20
+=>how to work with globle transcation .
+=>TRANSACTION MANAGEMENT:- a transaction management is componant that take  
+			care of managing the transaction of multiple transaction resourse 
