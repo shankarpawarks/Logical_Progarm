@@ -1,3 +1,5 @@
+/*LOGICAL PRORAM FOR COUNT VOWEL IN THE GIVEN STRING */
+
 class CountVOWEL 
 {
 	public static void main(String[] args) 
